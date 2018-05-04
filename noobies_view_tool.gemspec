@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["thesujal17@gmail.com"]
 
   spec.summary       = %q{Renders HTML data for multiple pages.}
-  spec.description   = %q{Mehod of refactoring of code.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{Method of refactoring of code.}
+  spec.homepage      = "https://github.com/SujalPaudel/noobies_view_tool"
   spec.license       = "MIT"
 
 
