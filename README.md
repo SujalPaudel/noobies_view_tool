@@ -22,7 +22,9 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-NoobiesViewTool::Renderer.copyright 'Sujal Paudel', 'All Rights Reserved' here
+NoobiesViewTool::Renderer.copyright 'Sujal Paudel', 'All Rights Reserved' 
+NoobiesViewTool::Renderer.developer 'https://github.com/SujalPaudel', 'Sujal Paudel'
+
 ```
 ## Development
 
