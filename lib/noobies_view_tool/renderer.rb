@@ -1,10 +1,8 @@
 module NoobiesViewTool
   class Renderer
-    def self.copyright name, msg
+    def self.copyright name, msg, gitlink
       "&copy; #{Time.now.year} | </b>#{name}</b> #{msg}".html_safe
-    end
-    def self.developer gitlink, name
-      '<a href = "gitlink">#{name}</a>'.html_safe
+      "<a href = '#{gitlink}'>dsad</a>".html_safe
     end
   end
 end
